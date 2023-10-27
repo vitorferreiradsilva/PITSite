@@ -8,11 +8,11 @@ function download(url) {
 }
 
 function downloadClickDesktop() {
-    let url = 'G:/VSCODE Projetos/PIT/downloadArchive/horaDoRemedio.rar'
+    let url = 'file:///C:/workspace/PITSite/downloadArchive/horaDoRemedio.rar'
     download(url)
 }
 
 function downloadClickMobile() {
-    let url = 'G:/VSCODE Projetos/PIT/downloadArchive/horaDoRemedio.rar'
+    let url = 'file:///C:/workspace/PITSite/downloadArchive/horaDoRemedio.rar'
     download(url)
 }
